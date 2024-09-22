@@ -58,28 +58,28 @@ public class MPFF {
 		            }
 
 		            if (intentFallidos == 1) {
-		            	System.out.println("				|¯¯¯¯¯¯¯¯¯|   ");
+		            	System.out.println("			|¯¯¯¯¯¯¯¯¯|   ");
 	        			System.out.println("				|         O ");
 	        			System.out.println("				|           ");
 	        			System.out.println("				|           ");
 	        			System.out.println("				|           ");
 	        			System.out.println("                             ¯¯¯¯¯¯¯");
 		            } else if (intentFallidos == 2) {
-		            	System.out.println("				|¯¯¯¯¯¯¯¯¯|   ");
+		            	System.out.println("			|¯¯¯¯¯¯¯¯¯|   ");
 	        			System.out.println("				|         O ");
 	        			System.out.println("				|         | ");
 	        			System.out.println("				|           ");
 	        			System.out.println("				|           ");
 	        			System.out.println("                             ¯¯¯¯¯¯¯");
 		            } else if (intentFallidos == 3) {
-		            	System.out.println("				|¯¯¯¯¯¯¯¯¯|   ");
+		            	System.out.println("			|¯¯¯¯¯¯¯¯¯|   ");
 	        			System.out.println("				|         O ");
 	        			System.out.println("				|        /| ");
 	        			System.out.println("				|           ");
 	        			System.out.println("				|           ");
 	        			System.out.println("                             ¯¯¯¯¯¯¯");
 		            } else if (intentFallidos == 4) {
-		            	System.out.println("				|¯¯¯¯¯¯¯¯¯|   ");
+		            	System.out.println("			|¯¯¯¯¯¯¯¯¯|   ");
 	        			System.out.println("				|         O ");
 	        			System.out.println("				|        /|\\ ");
 	        			System.out.println("				|           ");
@@ -87,14 +87,14 @@ public class MPFF {
 	        			System.out.println("                             ¯¯¯¯¯¯¯");
 
 		            } else if (intentFallidos == 5) {
-		            	System.out.println("				|¯¯¯¯¯¯¯¯¯|   ");
+		            	System.out.println("			|¯¯¯¯¯¯¯¯¯|   ");
 	        			System.out.println("				|         O ");
 	        			System.out.println("				|        /|\\");
 	        			System.out.println("				|        /  ");
 	        			System.out.println("				|           ");
 	        			System.out.println("                             ¯¯¯¯¯¯¯");
 		            } else if (intentFallidos == 6) {
-		            	System.out.println("				|¯¯¯¯¯¯¯¯¯|   ");
+		            	System.out.println("			|¯¯¯¯¯¯¯¯¯|   ");
 	        			System.out.println("				|         O ");
 	        			System.out.println("				|        /|\\");
 	        			System.out.println("				|        / \\");
